@@ -1,5 +1,24 @@
 # Student Performance Prediction & At-Risk Student Detection System
 
+🚀 **[🌐 LIVE DEMO — Try the App](https://student-risk-pratyush.streamlit.app/)**
+
+An ML-powered application that predicts student academic risk and helps identify students who may need additional support.
+
+## Features
+- Student risk prediction
+- Machine learning model comparison
+- Model performance evaluation
+- Interactive Streamlit dashboard
+
+## Tech Stack
+Python · Pandas · Scikit-learn · Streamlit
+
+## Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```# Student Performance Prediction & At-Risk Student Detection System
+
 A machine-learning web application that estimates whether a student may be at risk of academic underperformance.
 
 ## Features
